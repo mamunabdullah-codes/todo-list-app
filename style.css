@@ -4,7 +4,7 @@
 }
 
 body {
-  background-image: url(/Misty-forest.jpg);
+  background-image: url("Misty-forest.jpg");
   background-repeat: no-repeat;
   background-position: top;
 }
